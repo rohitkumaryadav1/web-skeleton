@@ -1,0 +1,27 @@
+[
+  {
+    "screens": "interior-desktop|interior-mobile|interior-tablet",
+    "selected": "interior",
+    "y": 0
+  },
+  {
+    "screens": "restaurant-desktop|restaurant-mobile|restaurant-tablet",
+    "selected": "restaurant",
+    "y": 0
+  },
+  {
+    "screens": "electrical-desktop|electrical-mobile|electrical-tablet",
+    "selected": "electrical",
+    "y": 0
+  },
+  {
+    "screens": "security-desktop|security-mobile|security-tablet",
+    "selected": "security",
+    "y": 0
+  },
+  {
+    "screens": "industrial-desktop|industrial-mobile|industrial-tablet",
+    "selected": "industrial",
+    "y": 0
+  }
+]

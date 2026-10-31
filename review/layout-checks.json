@@ -1,0 +1,28 @@
+[
+  {
+    "client": 753,
+    "columns": "325.078px 325.078px",
+    "height": 1024,
+    "hero": "relative",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "client": 1351,
+    "columns": "285.594px 285.594px 285.594px 285.594px",
+    "controlsTop": 262.109375,
+    "copyBottom": 252.390625,
+    "height": 768,
+    "hero": "sticky",
+    "scrollWidth": 1351,
+    "width": 1366
+  },
+  {
+    "client": 375,
+    "columns": "333.75px",
+    "height": 844,
+    "hero": "relative",
+    "scrollWidth": 375,
+    "width": 390
+  }
+]
